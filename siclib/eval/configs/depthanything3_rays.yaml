@@ -1,0 +1,9 @@
+model:
+  # name: networks.depthanything_pretrained
+  name: networks.depthanything3_pretrained_rays
+
+data:
+  im_geom_transform: null
+  preprocessing:
+    resize: null
+    edge_divisible_by: null
